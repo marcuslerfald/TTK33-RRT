@@ -3,4 +3,4 @@ See provided notebook for experiments, results and discussion.
 ## Authors
 Håvard Brenne and Marcus Lerfald
 ## Dependencies
-numpy, matplotlib
+scipy, numpy, matplotlib
